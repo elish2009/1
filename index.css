@@ -1,6 +1,6 @@
-body{background-color: azure;}
+body{background-color: rgb(7, 26, 122);}
 header{
-    background-color: azure;;
+    background-color: hwb(250 3% 65%);;
     color: black;
 }
 h1{
